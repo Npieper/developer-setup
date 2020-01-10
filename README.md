@@ -5,4 +5,10 @@
   brew doctor
 # Install Git
   brew install git
+# Sublime Text
+  https://www.sublimetext.com/3
+# 1Password
+# Google Chrome
+
+
   
